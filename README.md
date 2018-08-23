@@ -6,4 +6,4 @@ you should to the place you have unziped the compressed file sent in the assignm
 
 main variable is "data" which contain the main data after merging all the files
 
-data_mean contain the mean of each column 
+"data_mean" contain the mean of each column 
