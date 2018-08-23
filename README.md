@@ -10,18 +10,18 @@ i followed all the following instructions :
 
 
 ## files used in upload
-# for train data and test data
+for train data and test data
+
 subject_test.txt
 X_test.txt
 y_test.txt
 
 all of them are grouped together to form test or train data 
 
-activity_labels.txt #contains activity id mapping to names
-features.txt # contain features lables
+activity_labels.txt contains activity id mapping to names
+features.txt contain features lables
 
-
-##packages used
+## packages used
 dplyr package
 
 
